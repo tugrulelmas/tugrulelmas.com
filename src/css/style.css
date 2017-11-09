@@ -276,3 +276,7 @@ i { font-size: 16px; }
 .title{
 	font-size: 18px;
 }
+
+.pace .pace-progress {
+  background: #109d59;
+}
